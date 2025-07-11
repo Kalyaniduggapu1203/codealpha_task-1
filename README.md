@@ -1,2 +1,2 @@
-# codealpha_task-1
+# codealpha_tasks
 CodeAlpha AI Internship Projects by Kalyani
